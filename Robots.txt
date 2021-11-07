@@ -1,2 +1,9 @@
 User-agent: *
-Disallow: 
+Disallow: /slike/
+Allow: /slike/grb1.jpg
+Allow: /slike/institut.jpg
+Allow: /slike/poster.jpg
+Allow: /slike/pozadina.jpg
+Allow: /slike/pozadina1.jpg
+Allow: /slike/svet1.jpg
+Disallow:/css/
